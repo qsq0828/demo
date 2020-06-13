@@ -2,6 +2,7 @@ body
 {
 	width: 1200px;
 	height: 1600px;
+	margin: 0 auto;
 }
 .header {
 	height:180px;
@@ -64,7 +65,7 @@ li.weixin {
 .search {
     height:40px;
     position:absolute;
-    left:750px;
+    left:850px;
     top:106px;
     font-size:14px;
 	font-family:Microsoft YaHei;
